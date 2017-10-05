@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анатолий Богдан](https://up.htmlacademy.ru/ecmascript/3/user/16814).
-* Наставник: `Неизвестно`.
+* Наставник: Иван Соснин
 
 ---
 
